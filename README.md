@@ -1,0 +1,1 @@
+ This is the personal corner in my internet. I make my website where you can find some information about me. Here  i made four  sections i.e. home, about, now, contact where you can find enough information about me. Like from section home you can find all things about me surfacely, about section where you can find detailed information about me etc.
